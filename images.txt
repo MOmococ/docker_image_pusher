@@ -6,3 +6,4 @@ xhofe/alist:latest
 python:alpine3.19
 nginx:latest
 kylemanna/openvpn:2.4
+hello-world:latest 
