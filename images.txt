@@ -8,3 +8,4 @@ nginx:latest
 kylemanna/openvpn:2.4
 hello-world:latest 
 mongo:latest
+wordpress:latest
