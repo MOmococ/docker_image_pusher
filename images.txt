@@ -10,3 +10,5 @@ hello-world:latest
 mongo:latest
 wordpress:latest
 mysql:latest
+jumpserver:latest
+redis:latest
