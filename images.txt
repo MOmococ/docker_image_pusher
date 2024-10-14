@@ -12,3 +12,4 @@ wordpress:latest
 mysql:latest
 jumpserver:latest
 redis:latest
+jumpserver/jms_all
