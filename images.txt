@@ -12,3 +12,4 @@ wordpress:latest
 mysql:latest
 redis:latest
 jumpserver/jms_all
+tdengine/tdengine:latest
